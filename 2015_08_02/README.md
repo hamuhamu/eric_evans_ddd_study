@@ -108,4 +108,7 @@ if (empty($result)) {
 
 ### アーキテクチャフレームワーク
 
+## おまけ
 
+http://www.slideshare.net/atsushikambara/implementing-domaindriven-design-part-1
+http://www.slideshare.net/kenjikumaie/sddd-51386044
