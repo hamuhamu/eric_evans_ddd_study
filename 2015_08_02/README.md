@@ -106,6 +106,11 @@ if (empty($result)) {
 アプリケーション層は、本来の仕事に集中した状態に保ちたい。  
 メッセージを **いつ** 送信するかは、 知っているがそれを **どのように** 行うかまでは背負わない。  
 
+## おまけ
+
+http://www.slideshare.net/atsushikambara/implementing-domaindriven-design-part-1
+http://www.slideshare.net/kenjikumaie/sddd-51386044
+
 ### アーキテクチャフレームワーク
 
 メソッドシグネチャ  
